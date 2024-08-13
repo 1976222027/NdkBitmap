@@ -26,7 +26,7 @@ ndkbitmap add 64bit support (Fork form https://github.com/bilibili/NativeBitmapF
     maven { url 'https://jitpack.io' }
     implementation 'com.github.ctiao:DanmakuFlameMaster:0.9.25'
     //implementation 'com.github.ctiao:ndkbitmap-armv7a:0.9.21'
-    implementation 'com.gitee.mahongyin:NdkBitmap:0.0.1'
+    implementation 'com.gitee.mahongyin:NdkBitmap:0.0.2'
 ```
 <!--more-->
 
