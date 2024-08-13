@@ -1,0 +1,7 @@
+# generated files
+src/main/libs
+obj/
+tmp/
+build/
+.gradle/
+.cxx/
